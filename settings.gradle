@@ -1,0 +1,1 @@
+include ':proxy-hook', ':activity-replace', ':classloader-loadapk'
